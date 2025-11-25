@@ -1,0 +1,50 @@
+[
+  {
+    "dishId": "d1",
+    "dishName": " Butter Paneer",
+    "imageUrl": "http://localhost:4000/uploads/butterpaneermasala.avif",
+    "isPublished": true
+  },
+  {
+    "dishId": "d2",
+    "dishName": "Chicken Biryani",
+    "imageUrl": "http://localhost:4000/uploads/ChickenBiryani.avif",
+    "isPublished": true
+  },
+  {
+    "dishId": "d3",
+    "dishName": " Dosa",
+    "imageUrl": "http://localhost:4000/uploads/masaladosa.webp",
+    "isPublished": false
+  },
+  {
+    "dishId": "d4",
+    "dishName": "Gulab Jamun",
+    "imageUrl": "http://localhost:4000/uploads/GulabJamun.webp",
+    "isPublished": true
+  },
+  {
+    "dishId": "d5",
+    "dishName": "rasmalai",
+    "imageUrl": "http://localhost:4000/uploads/rasmalai.webp",
+    "isPublished": true
+  },
+  {
+    "dishId": "d6",
+    "dishName": "besan chila",
+    "imageUrl": "http://localhost:4000/uploads/besan chilla.webp",
+    "isPublished": true
+  },
+  {
+    "dishId": "d7",
+    "dishName": "mocktails",
+    "imageUrl": "http://localhost:4000/uploads/mocktails.avif",
+    "isPublished": true
+  },
+  {
+    "dishId": "d8",
+    "dishName": "sweet daliya",
+    "imageUrl": "http://localhost:4000/uploads/sweet daliya.avif",
+    "isPublished": true
+  }
+]
