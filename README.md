@@ -113,10 +113,13 @@ Frontend runs at:
 - Seed script included  
 - Clean folder structure  
 
----
+Demo Video Link
+https://drive.google.com/file/d/1zmkeHlfKOBB4elI6r_YhpllPmowJSAVj/view?usp=drivesdk
+https://drive.google.com/file/d/1zw2F7Vxdha8AjhL8qwHi65e80XhP46C1/view?usp=drivesdk
 
 ## Author
 
 **Priti Singh**  
 GitHub: https://github.com/pritisingh19
+
 
